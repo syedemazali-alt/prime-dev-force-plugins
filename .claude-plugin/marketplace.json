@@ -1,0 +1,15 @@
+{
+  "name": "prime-dev-force-plugins",
+  "description": "Free plugins from Prime Dev Force LLC, the publisher of Coverage Clock.",
+  "owner": {
+    "name": "Prime Dev Force LLC",
+    "email": "emaz@primedevforce.com"
+  },
+  "plugins": [
+    {
+      "name": "home-insurance-navigator",
+      "source": "./plugins/home-insurance-navigator",
+      "description": "Plain-English help for U.S. homeowners facing a non-renewal or a coverage question, with official-source checks and links to Coverage Clock guides."
+    }
+  ]
+}
