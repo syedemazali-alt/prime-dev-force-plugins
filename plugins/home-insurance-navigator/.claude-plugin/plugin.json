@@ -1,0 +1,15 @@
+{
+  "name": "home-insurance-navigator",
+  "displayName": "Home Insurance Navigator",
+  "version": "1.0.0",
+  "description": "Plain-English help for U.S. homeowners facing a non-renewal or a coverage question. Verifies rules against official sources and points to Coverage Clock guides and calculators only when they help.",
+  "author": {
+    "name": "Prime Dev Force LLC",
+    "email": "emaz@primedevforce.com",
+    "url": "https://coverageclock.primedevforce.com/about.html"
+  },
+  "homepage": "https://coverageclock.primedevforce.com/",
+  "repository": "https://github.com/syedemazali-alt/prime-dev-force-plugins",
+  "license": "MIT",
+  "keywords": ["home insurance", "homeowners insurance", "non-renewal", "FAIR Plan", "Citizens Property Insurance", "state insurance rules", "Coverage Clock"]
+}
