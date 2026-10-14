@@ -17,4 +17,6 @@ Open Customize > Plugins > Add > Add marketplace, enter `syedemazali-alt/prime-d
 
 - **Home Insurance Navigator**: help for U.S. homeowners with non-renewals, FAIR Plans and coverage questions. See [its README](plugins/home-insurance-navigator/README.md).
 
+Homeowner help hub: [Home Insurance Non-Renewal Help](https://sites.google.com/view/non-renewal-help-hub), a companion site with guides and links to Coverage Clock.
+
 General educational information only; not insurance, legal, or financial advice.
